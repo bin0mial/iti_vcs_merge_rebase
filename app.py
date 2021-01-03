@@ -24,3 +24,7 @@ class Person:
 		x=3
 		self.__age = self.age + x
 		return self.__age
+
+	def get_name(self)->str:
+		return __name
+
