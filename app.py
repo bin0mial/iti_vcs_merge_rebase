@@ -1,3 +1,5 @@
+A
+
 class Person:
 	__name = "Default"
 	__age = None
