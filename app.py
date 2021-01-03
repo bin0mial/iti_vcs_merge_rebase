@@ -1,5 +1,6 @@
 A
 b
+c
 
 class Person:
 	__name = "Default"
